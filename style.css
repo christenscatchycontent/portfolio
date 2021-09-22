@@ -4,17 +4,17 @@
   font-weight: bolder;
 }
 /* using four different colors that were classes in my html and calling them here */
-.white {
-  color: white
+.black {
+  color: black
 }
 .blue {
-  color: rgba(246, 243, 243, 0.952)
+  color: color: rgb(16, 59, 59)
 }
 .dark-blue {
-  color: rgba(212, 212, 231, 0.89)
+  color:  rgb(10, 6, 47)
 }
 .aqua {
-  color: rgb(197, 235, 207)
+  color:  rgb(4, 22, 27)
 }
 /* used @import to bring in a font from google font */
 @import url('https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap');
