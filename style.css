@@ -1,16 +1,17 @@
 /* this .align-center is how i centered text on page */
 .align-center {
   text-align: center;
+  font-weight: bolder;
 }
 /* using four different colors that were classes in my html and calling them here */
 .green {
   color: rgba(115, 209, 115, 0.452)
 }
 .blue {
-  color: rgba(120, 120, 192, 0.603)
+  color: rgba(178, 178, 235, 0.603)
 }
 .dark-blue {
-  color: rgba(105, 105, 204, 0.575)
+  color: rgba(191, 191, 209, 0.575)
 }
 .aqua {
   color: rgb(62, 175, 175)
@@ -23,7 +24,7 @@ body {
   font-weight: 400;
   line-height: 1.58;
   letter-spacing: -.003em;
-  font-size: 20px;
+  font-size: 25px;
   padding: 70px;
 }
 /* image for background for footer - here i'm calling it by it's class in index.html, using image link, and modifying the text */
@@ -33,12 +34,22 @@ height: 550px; /* height of background image */
 width: 1000px; /*width of background image*/
 text-align: left; /* keeps text to the  left so it matches up with background */
  color: white; 
-  font-size: 30px; 
-background-repeat: no-repeat; /* Keeps image from repeating since it is not very wide */ 
+   font-size: 40px;
+background-repeat: repeat; /* Keeps image from repeating since it is not very wide */ 
 } 
 /* my e-mail and contact me link colors */  
-a:link    { color:  hsl(120, 100%, 25%);  } 
-a:visited { color: hsl(199, 33%, 57%); } 
+a:link    { color:  hsl(120, 57%, 82%);  } 
+a:visited { color: hsl(199, 38%, 79%); } 
 a:hover   { color: hsla(108, 60%, 60%, 0.836); } 
 a:active  { color: hsl(120, 100%, 10%); }                                         
-::after   { color:hsla(108, 60%, 60%, 0.836)}   
+::after   { color:hsla(108, 60%, 60%, 0.836)}  
+
+body {
+  margin: 35px;
+}
+h2 {
+  font-size: 25px;
+}
+h1 {
+  font-size: 50px;
+}
