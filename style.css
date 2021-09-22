@@ -38,11 +38,11 @@ text-align: left; /* keeps text to the  left so it matches up with background */
 background-repeat: repeat; /* Keeps image from repeating since it is not very wide */ 
 } 
 /* my e-mail and contact me link colors */  
-a:link    { color:  rgb(16, 59, 59);  } 
-a:visited { color: rgb(10, 50, 30; } 
-a:hover   { color: rgb(16, 59, 59); } 
-a:active  { color: rgb(1, 59, 5); }                                         
-::after   { color: rgb(16, 9, 59)}  
+a:link    { color:  rgb(16, 59, 59);} 
+a:visited { color: rgb(10, 50, 30;} 
+a:hover   { color: rgb(16, 59, 59);} 
+a:active  { color: rgb(1, 59, 5);}                                         
+::after   { color: rgb(16, 9, 59);}  
 
 body {
   margin: 35px;
