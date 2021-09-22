@@ -7,11 +7,11 @@
 .green {
   color: rgba(115, 209, 115, 0.452)
 }
-.white {
-   color: rgba(255, 255, 255, 0.952)
+.blue {
+  color: rgba(255, 255, 255, 0.952)
 }
 .dark-blue {
-  color: rgba(191, 191, 209, 0.575)
+  color: rgba(228, 228, 236, 0.733)
 }
 .aqua {
   color: rgb(62, 175, 175)
@@ -39,7 +39,7 @@ background-repeat: repeat; /* Keeps image from repeating since it is not very wi
 } 
 /* my e-mail and contact me link colors */  
 a:link    { color:  hsl(120, 57%, 82%);  } 
-a:visited { color: hsl(199, 38%, 79%); } 
+a:visited { color: hsl(0, 0%, 97%); } 
 a:hover   { color: hsla(108, 60%, 60%, 0.836); } 
 a:active  { color: hsl(120, 100%, 10%); }                                         
 ::after   { color:hsla(108, 60%, 60%, 0.836)}  
