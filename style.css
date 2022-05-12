@@ -30,8 +30,8 @@ body {
 /* image for background for footer - here i'm calling it by it's class in index.html, using image link, and modifying the text */
 .foot-image { 
 background-image: url(https://images.unsplash.com/photo-1522199755839-a2bacb67c546?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80); 
-height: 700px; /* height of background image */
-width: 400px; /*width of background image*/
+height: 550px; /* height of background image */
+width: 1000px; /*width of background image*/
 text-align: left; /* keeps text to the  left so it matches up with background */
  color: gray; 
    font-size: 38px;
