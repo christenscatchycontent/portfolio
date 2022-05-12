@@ -48,7 +48,7 @@ a:active  { color: rgb(201, 133, 25);}
 
 background {
   margin: 75px;
-  
+}
 body {
   margin: 35px;
     font-weight: bolder;
@@ -60,4 +60,7 @@ h2 {
 h1 {
   font-size: 70px;
     font-weight: bolder;
+}
+footer {
+  text-align: center;
 }
