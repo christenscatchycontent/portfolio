@@ -29,12 +29,14 @@ body {
 }
 /* image for background for footer - here i'm calling it by it's class in index.html, using image link, and modifying the text */
 .foot-image { 
-background-image: url(https://images.unsplash.com/photo-1522199755839-a2bacb67c546?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80); 
+background-image: url(https://images.pexels.com/photos/1843717/pexels-photo-1843717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1); 
 height: 550px; /* height of background image */
 width: 1000px; /*width of background image*/
 text-align: left; /* keeps text to the  left so it matches up with background */
  color: white; 
    font-size: 40px;
+  
+  
 background-repeat: repeat; /* Keeps image from repeating since it is not very wide */ 
 } 
 /* my e-mail and contact me link colors */  
@@ -44,7 +46,8 @@ a:hover   { color: rgb(206, 60, 23);}
 a:active  { color: rgb(201, 133, 25);}                                         
 ::after   { color: rgb(80, 82, 5);}  
 
-
+background {
+  margin: 75px;
 body {
   margin: 35px;
     font-weight: bolder;
