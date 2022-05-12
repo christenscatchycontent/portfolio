@@ -29,7 +29,7 @@ body {
 }
 /* image for background for footer - here i'm calling it by it's class in index.html, using image link, and modifying the text */
 .foot-image { 
-background-image: url(https://images.pexels.com/photos/3653849/pexels-photo-3653849.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1); 
+background-image: url('https://images.pexels.com/photos/3653849/pexels-photo-3653849.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'); 
 height: 550px; /* height of background image */
 width: 1000px; /*width of background image*/
 text-align: left; /* keeps text to the  left so it matches up with background */
