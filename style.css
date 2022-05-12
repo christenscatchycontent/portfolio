@@ -17,7 +17,7 @@
   color:  rgb(4, 22, 27)
 }
 /* used @import to bring in a font from google font */
-@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap');
+@import url(https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap);
 
 body {
   font-family: 'Scheherazade New', serif;
